@@ -1,0 +1,34 @@
+3
+Manchester_United 200 13
+Real_Madrid 150 12
+FC_Barcelona 230 8
+Manchester_United Cristiano Ronaldo 85
+Manchester_United Marcus Rashford 78
+Manchester_United Bruno Fernandes 87
+Manchester_United David Gea 90
+Manchester_United Harry Maguire 83
+Manchester_United Paul Pogba 86
+Manchester_United Luke Shaw 81
+Manchester_United Jadon Sancho 82
+Manchester_United Raphael Varane 88
+Manchester_United Edinson Cavani 84
+Manchester_United Mason Greenwood 80
+Manchester_United Scott McTominay 79
+Real_Madrid Karim Benzema 89
+Real_Madrid Vinicius Junior 81
+Real_Madrid Luka Modric 88
+Real_Madrid Thibaut Courtois 92
+Real_Madrid Casemiro Gpt 87
+Real_Madrid David Alaba 86
+Real_Madrid Ferland Mendy 83
+Real_Madrid Marco Asensio 84
+Real_Madrid Federico Valverde 85
+Real_Madrid Rodrygo Chat 80
+Real_Madrid Nacho Fernandez 82
+FC_Barcelona Lionel Messi 94
+FC_Barcelona Sergio Busquets 89
+FC_Barcelona Frenkie de_Jong 86
+FC_Barcelona Jordi Alba 85
+FC_Barcelona Gerard Pique 87
+FC_Barcelona Pedri Gpt 84
+FC_Barcelona Memphis Depay 88

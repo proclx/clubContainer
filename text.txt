@@ -1,0 +1,12 @@
+Barcelona
+200
+10
+8
+Ronaldo Cristiano 75
+Messi Lionel 90
+Neymar Junior 85
+Mbappe Kylian 88
+Salah Mohamed 82
+Lewandowski Robert 89
+De_Bruyne Kevin 87
+Kane Harry 84
